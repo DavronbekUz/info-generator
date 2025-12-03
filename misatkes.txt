@@ -1,0 +1,1 @@
+if user ener not valid number like str or some simbles it will returen mistake user has only 2 command 
